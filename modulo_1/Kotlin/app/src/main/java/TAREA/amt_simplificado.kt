@@ -7,7 +7,6 @@ fun main() {
     var saldo = readln().toDouble()
 
     var opcion: Int
-
     do {
         println("\nMenú de opciones:")
         println("1) Depositar")
@@ -23,7 +22,6 @@ fun main() {
                 saldo += deposito
                 println("Depósito realizado. Saldo actual: $saldo")
             }
-
             2 -> {
                 print("Ingrese el monto a retirar: ")
                 val retiro = readln().toDouble()
@@ -34,7 +32,6 @@ fun main() {
                     println("Fondos insuficientes. No puede dejar saldo negativo.")
                 }
             }
-
             3 -> println("Sesión terminada.")
             else -> println("Opción no válida. Intente nuevamente.")
         }
