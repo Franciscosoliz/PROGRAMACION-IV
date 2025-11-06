@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "multimedia"
 include(":app")
+ 

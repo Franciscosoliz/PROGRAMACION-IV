@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.ute.tts"
-    compileSdk = 36
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ute.tts"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

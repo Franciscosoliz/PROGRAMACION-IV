@@ -1,28 +1,28 @@
-package com.example.basics
+package com.example.controlinventario
 
-// Excepciones personalizadas
-class HerramientaInsuficienteException(message: String) : Exception(message)
-class ReparacionPeligrosaException(message: String) : Exception(message)
+class StockInsuficienteException(message: String) : Exception(message)
+class EnvioRiesgosoException(message: String) : Exception(message)
 
-fun realizarReparacion(nivelExperiencia: Int, nivelDificultad: Int): String {
+fun procesarPedido(stock: Int, riesgoEnvio: Int): String {
     return try {
         when {
-            nivelExperiencia < 30 -> throw HerramientaInsuficienteException("nivel de experiencia muy bajo: $nivelExperiencia")
-            nivelExperiencia < 80 -> throw ReparacionPeligrosaException("reparación extremadamente complicada")
-            else -> "reparación completada con éxito"
+            stock < 10 -> throw StockInsuficienteException("Stock insuficiente: $stock unidades")
+            riesgoEnvio > 70 -> throw EnvioRiesgosoException("Zona de envío peligrosa")
+            else -> "Pedido procesado correctamente"
         }
-    } catch (e: HerramientaInsuficienteException) {
-        "Error: ${e.message}. Se requiere más práctica y mejores herramientas."
-    } catch (e: ReparacionPeligrosaException) {
-        "Error: ${e.message}. Nivel de dificultad: $nivelDificultad. Solicitar apoyo del jefe de taller."
+    } catch (e: StockInsuficienteException) {
+        "Error: ${e.message}. Se requiere reposición de inventario"
+    } catch (e: EnvioRiesgosoException) {
+        "Error: ${e.message}. Riesgo de envío: $riesgoEnvio%"
     } catch (e: Exception) {
-        "Error inesperado: ${e.message}"
+        "${e.message}"
     } finally {
-        println("Reporte de reparación enviado al sistema del taller.")
+        "Reporte generado"
     }
 }
 
 fun main() {
-    println(realizarReparacion(nivelExperiencia = 20, nivelDificultad = 60))
-    println(realizarReparacion(nivelExperiencia = 100, nivelDificultad = 60))
+    println(procesarPedido(stock = 5, riesgoEnvio = 40))
+    println(procesarPedido(stock = 50, riesgoEnvio = 80))
+    println(procesarPedido(stock = 100, riesgoEnvio = 20))
 }

@@ -1,50 +1,37 @@
-package com.example.tallermecanico
+package com.example.controlinventario
 
-data class Mecanico(
+data class Producto(
     val nombre: String,
-    val edad: Int,
-    val nivelHabilidad: Int,
-    val jefe: String? = null,
+    val stock: Int,
+    val precio: Int,
+    val proveedor: String? = null
 ) {
-    // Propiedad calculada: rango del mecánico
-    val rango: String
+    val categoria: String
         get() = when {
-            nivelHabilidad >= 90 -> "Jefe de taller"
-            nivelHabilidad >= 70 -> "Mecánico senior"
-            nivelHabilidad >= 50 -> "Mecánico junior"
-            else -> "Aprendiz"
+            precio >= 1000 -> "Alta gama"
+            precio >= 500 -> "Media"
+            else -> "Económico"
         }
 
-    // Puede supervisar a otros mecánicos
-    fun puedeSupervisar(): Boolean = nivelHabilidad >= 70
+    fun requiereReposicion(): Boolean = stock < 10
 
-    // Puede ser aprendiz si tiene poca edad
-    fun esAprendiz(): Boolean = edad <= 20
+    fun esPromocionable(): Boolean = precio > 300 && stock > 0
 }
 
 fun main() {
-    println("=== REGISTRO DE MECÁNICOS DEL TALLER ===")
-
-    val pedro = Mecanico(
-        nombre = "Pedro García",
-        edad = 28,
-        nivelHabilidad = 75,
-        jefe = "Carlos Ramírez"
+    val laptop = Producto(
+        "Laptop Lenovo",
+        12,
+        950,
+        "Lenovo Oficial"
     )
-    println(pedro)
+    println(laptop)
 
-    // Desestructuración del objeto
-    val (nombre, edad, nivelHabilidad) = pedro
-    println("Nombre del mecánico: $nombre, Edad: $edad, Nivel de habilidad: $nivelHabilidad")
+    val (nombre, stock, precio) = laptop
+    println("Producto: $nombre\nStock: $stock\nPrecio: $precio")
 
-    // Copiar objeto con cambios
-    val ana = pedro.copy(nombre = "Ana López", nivelHabilidad = 92)
-    println("\nCopia modificada: $ana")
-
-    // Propiedad calculada
-    println("Rango de ${ana.nombre}: ${ana.rango}")
-
-    // Funciones personalizadas
-    println("${ana.nombre} puede supervisar a otros: ${ana.puedeSupervisar()}")
-    println("${ana.nombre} es aprendiz: ${ana.esAprendiz()}")
+    val laptopOferta = laptop.copy(nombre = "Laptop Lenovo Oferta", precio = 800)
+    println(laptopOferta)
+    println("Categoría de ${laptopOferta.nombre}: ${laptopOferta.categoria}")
+    println("¿Requiere reposición? ${laptopOferta.requiereReposicion()}")
 }

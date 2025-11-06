@@ -1,38 +1,31 @@
 package com.example.basics
 
-import android.graphics.Color
-
-enum class TipoSable(val color: String, val poder: Int) {
-    AZUL("verde",  85){
-        override fun descripcion()= "sable tradicional de los Jedi"
+enum class TipoSable(val color: String, val poder: Int){
+    Azul("azul",85){
+        override fun descripcion() = "Sable tradicional de los Jedi"
     },
-    VERDE(  "verde",  90){
-        override fun descripcion()="sable de los jedi consulares"
+    Verdel("Verde",90){
+        override fun descripcion() = "Sable de los Jedi consultores"
     },
-    ROJO( "rojo",  95){
-       override fun descripcion()="sable de los sith"
+    rojo("rojo",95){
+        override fun descripcion() = "Sable de los Sith"
     },
-    MORADO( "morado", 95){
-        override fun descripcion()="sable equilibra luz y oscuridad"
+    morado("morado",95){
+        override fun descripcion() = "Sable tradicional de los Jedi"
     };
     abstract fun descripcion(): String
-    companion object {
-        fun porColor(color: String)= values().find {it.color==color}
+    companion object{
+        fun porColor(color: String)= values().find{it.color==color}
     }
 }
-class SableDeLuz(val tipo: TipoSable, val portador: String){
-    fun activar() ="!ZZZrum! el sable color ${tipo.color} de ${portador} se enciende"
-    fun info()= "${tipo.descripcion()} - tipo poder ${tipo.poder}"
+class Sabledeluz(val tipo: TipoSable, val portador: String){
+    fun activar() = "!222run! El sable color ${tipo.color} de ${portador} se enciende"
+    fun info()= "${tipo.descripcion()} - Tipo poder ${tipo.poder}"
 }
 
 fun main(){
-    val sableWindoo = SableDeLuz(TipoSable.MORADO, portador = "Wiindoo")
-    println(sableWindoo)
-    println(sableWindoo.activar())
-    println(sableWindoo.info())
-
-    val sableLuke = SableDeLuz(TipoSable.VERDE, portador = "Luke Skywalker")
-    println(sableLuke)
-    println(sableLuke.activar())
-    println(sableLuke.info())
+    val sableMindoo = Sabledeluz(TipoSable.morado, portador = "Mindoo")
+    println(sableMindoo)
+    println(sableMindoo.activar())
+    println(sableMindoo.info())
 }

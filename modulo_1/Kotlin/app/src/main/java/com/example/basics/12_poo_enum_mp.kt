@@ -1,46 +1,34 @@
-package com.example.tallermecanico
+package com.example.controlinventario
 
-enum class TipoHerramienta(val color: String, val potencia: Int) {
-    LLAVE_INGLES("plateado", 85) {
-        override fun descripcion() = "Herramienta clásica para ajustar tuercas y pernos."
+enum class CategoriaProducto(val tipo: String, val prioridad: Int) {
+    Tecnologia("Electrónica", 90) {
+        override fun descripcion() = "Productos relacionados a computación y dispositivos"
     },
-    DESTORNILLADOR("amarillo", 75) {
-        override fun descripcion() = "Usado para apretar o aflojar tornillos de precisión."
+    Oficina("Papelería", 70) {
+        override fun descripcion() = "Material de oficina y suministros"
     },
-    TALADRO("rojo", 95) {
-        override fun descripcion() = "Herramienta eléctrica para perforar superficies metálicas."
+    Hogar("Electrodomésticos", 80) {
+        override fun descripcion() = "Artículos para el hogar"
     },
-    GATO_HIDRAULICO("azul", 90) {
-        override fun descripcion() = "Dispositivo para elevar vehículos durante reparaciones."
+    Entretenimiento("Videojuegos", 85) {
+        override fun descripcion() = "Productos para entretenimiento digital"
     };
 
     abstract fun descripcion(): String
 
     companion object {
-        fun porColor(color: String) = values().find { it.color == color }
+        fun porTipo(tipo: String) = values().find { it.tipo == tipo }
     }
 }
 
-// Clase que representa una herramienta en uso
-class Herramienta(val tipo: TipoHerramienta, val operador: String) {
-    fun usar() = "${operador} usa la ${tipo.name.lowercase()} (${tipo.color}) con potencia ${tipo.potencia}."
-    fun info() = "${tipo.descripcion()} - Potencia: ${tipo.potencia}"
+class Productos(val categoria: CategoriaProducto, val nombre: String) {
+    fun registrar() = "Registrando producto '$nombre' en categoría ${categoria.tipo}"
+    fun detalles() = "${categoria.descripcion()} - Prioridad ${categoria.prioridad}"
 }
 
 fun main() {
-    println("=== SISTEMA DE HERRAMIENTAS DEL TALLER ===")
-
-    val herramientaPedro = Herramienta(TipoHerramienta.TALADRO, operador = "Pedro")
-    println("\n$herramientaPedro")
-    println(herramientaPedro.usar())
-    println(herramientaPedro.info())
-
-    val herramientaAna = Herramienta(TipoHerramienta.LLAVE_INGLES, operador = "Ana")
-    println("\n$herramientaAna")
-    println(herramientaAna.usar())
-    println(herramientaAna.info())
-
-    // Ejemplo del método del companion object
-    val herramientaBuscada = TipoHerramienta.porColor("azul")
-    println("\nHerramienta buscada por color 'azul': ${herramientaBuscada?.name}")
+    val producto1 = Productos(CategoriaProducto.Tecnologia, "Laptop HP Envy")
+    println(producto1)
+    println(producto1.registrar())
+    println(producto1.detalles())
 }
