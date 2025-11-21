@@ -1,1 +1,0 @@
-print("Este es un ejemplo tema: Control de Inventario")

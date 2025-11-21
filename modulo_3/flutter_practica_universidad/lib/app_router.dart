@@ -1,0 +1,27 @@
+import 'package:go_router/go_router.dart';
+
+import 'pages/admissions_home_page.dart';
+import 'pages/average_grade_page.dart';
+import 'pages/tuition_page.dart';
+import 'pages/enrollment_fee_page.dart';
+
+final GoRouter appRouter = GoRouter(
+  routes: [
+    GoRoute(
+      path: '/',
+      builder: (_, __) => const AdmissionsHomePage(),
+    ),
+    GoRoute(
+      path: '/average',
+      builder: (_, __) => const AverageGradePage(),
+    ),
+    GoRoute(
+      path: '/tuition',
+      builder: (_, __) => const TuitionPage(),
+    ),
+    GoRoute(
+      path: '/fees',
+      builder: (_, __) => const EnrollmentFeePage(),
+    ),
+  ],
+);
