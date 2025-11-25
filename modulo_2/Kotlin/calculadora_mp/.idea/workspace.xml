@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_calculator.xml">
+        <config>
+          <theme>@style/Theme.Calculadora</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.Calculadora</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfe74262-6baf-41e7-ba1f-6accf9aafdc8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../flutter" beforeDir="false" afterPath="$PROJECT_DIR$/../../../flutter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/androidTest/java/com/example/hellojetpackcompose/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainAreaTriangulo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainBoton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainCard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainEditable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainHealthExercises.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainJetpackCompose.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainLista.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainMoneyExercises.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainNavigation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainStatsExercises.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/MainTravelExercises.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/scaffold.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/java/com/example/hellojetpackcompose/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/app/src/test/java/com/example/hellojetpackcompose/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JETPACK_COMPOCE/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/androidTest/java/com/ute/app/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/data/api/PostsApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/data/model/PostDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/data/repo/PostsRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/componens/Top.Bars.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/nav/AppNavGraph.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/nav/NavRoutes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/AccountScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/GalleryScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/PostDetailScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/PostsListScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/SettingsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/screens/VideoScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/ute/app/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/test/java/com/ute/app/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/app/src/main/java/com/ute/calculadora/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/app/src/main/java/com/ute/calculadora/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculadora/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../calculadora/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/app/src/main/java/com/ute/contador/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/app/src/main/java/com/ute/contador/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/java/com/example/layouts/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/java/com/example/layouts/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/contraint_layout_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/contraint_layout_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/frame_layout_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/frame_layout_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/linear_layout_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/linear_layout_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/res/layout/scroli_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../layouts/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/app/src/main/java/com/ute/multimedia/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/app/src/main/java/com/ute/multimedia/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multimedia/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../multimedia/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/app/src/main/java/com/ute/tts/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/app/src/main/java/com/ute/tts/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tts/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tts/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/main/kotlin/com/example/global_state/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/core/state/app_state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/core/theme/app_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/core/theme/theme_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/features/home/detail_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/features/home/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/features/profile/profile_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/features/settings/settings_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/lib/shell_scaffold.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/global_state/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/main/kotlin/com/example/hola_flutter/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/lib/main_contador.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/lib/main_dark.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter/hola_flutter/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/components/AppButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/context/UsersContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/features/tasks/components/TaskItem.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/features/tasks/screens/TaskDetailScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/features/tasks/screens/TaskListScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/features/users/screens/UserDetailScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/features/users/screens/UsersListScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/layouts/MainLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/src/navigation/AppNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/estilos/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/src/navigation/AppNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/src/screens/CalculatorScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/src/screens/CircleAreaScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/src/screens/SquareAreaScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/src/screens/ToolsMenuScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/src/screens/TriangleAreaScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/hooks/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/src/components/Caja.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/src/components/Contador.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/src/components/Perfil.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/src/components/Saludo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/src/components/SaludoProps.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/mi-app-rn/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/app copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/src/components/AvPlayer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/src/components/ImageGrid.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/src/navigation/AppNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/src/screens/MediaPickerScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/src/screens/VideoPlayerScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/src/screens/YouTubeScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-media-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/components/AppButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/components/AppInput.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/components/GlassCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/components/GradientBg.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/components/WaveSvg.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/navigation/AuthStack.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/navigation/DrawerNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/navigation/RootNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/navigation/TabsNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/HomeScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/LoginScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/ProductFormScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/ProductsListScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/ProfileScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/RegisterScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/src/screens/WelcomeScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/rn-purple-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/src/navigation/AppNavigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/src/screens/UserFormScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/src/screens/UsersListScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_native/users/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/appInsightsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/modulo_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/kotlin/com/example/flutter_practica_banco/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/lib/app_router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/lib/pages/atm_fee_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/lib/pages/bank_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/lib/pages/interest_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/lib/pages/loan_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_banco/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/kotlin/com/example/flutter_practica_hospital/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/app_router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/pages/appointment_cost_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/pages/bmi_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/pages/dose_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/pages/hospital_cost_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/lib/pages/hospital_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_hospital/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/kotlin/com/example/flutter_practica_restaurante/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/app_router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/pages/menu_total_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/pages/order_total_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/pages/restaurant_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/pages/split_bill_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/lib/pages/tip_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_restaurante/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/kotlin/com/example/flutter_practica_taller/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/app_router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/pages/alignment_balance_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/pages/labor_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/pages/parts_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/pages/quick_diagnosis_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/pages/service_package_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/lib/pages/workshop_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_taller/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/kotlin/com/example/flutter_practica_universidad/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/app_router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/pages/admissions_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/pages/average_grade_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/pages/credits_summary_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/pages/enrollment_fee_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/pages/tips_calculator_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/lib/pages/tuition_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_universidad/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/kotlin/com/example/flutter_practica_viajes/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/images/destino_destacado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/images/playa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/images/playa2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/images/playa3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/videos/clip_hotel.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/videos/clip_playa.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/videos/clip_tour.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/assets/videos/promo_playa.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/app_router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/pages/destination_image_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/pages/photo_carousel_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/pages/promo_video_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/pages/travel_home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/pages/travel_plan_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/lib/pages/video_carousel_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modulo_3/flutter_practica_viajes/windows/runner/win32_window.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\LENOVO\.gradle\wrapper\dists\gradle-8.9-bin\90cnw93cvbtalezasaz0blq0a\gradle-8.9" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="8.9" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="35xSv7PGBj7pTTHgq35oGwO1bR2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "SEMANA__4",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Desktop/PROGRAMACION-IV/Modulo_2/kotlin/calculadora_mp"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="calculadora.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe74262-6baf-41e7-ba1f-6accf9aafdc8" name="Changes" comment="" />
+      <created>1764048097357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764048097357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.ute.calculadora">
+          <value>
+            <CheckInfo lastCheckTimestamp="1764048271786" />
+          </value>
+        </entry>
+        <entry key="com.ute.calculadora.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1764048271786" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
