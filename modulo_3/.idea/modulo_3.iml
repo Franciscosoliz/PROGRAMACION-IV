@@ -2,7 +2,29 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_banco/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_banco/.dart_tool/widget_preview_scaffold/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_banco/.dart_tool/widget_preview_scaffold/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_banco/.dart_tool/widget_preview_scaffold/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_banco/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_banco/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_hospital/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_hospital/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_hospital/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_restaurante/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_restaurante/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_restaurante/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_taller/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_taller/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_taller/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_universidad/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_universidad/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_universidad/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_viajes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_viajes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_practica_viajes/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

@@ -4,6 +4,8 @@ import 'pages/admissions_home_page.dart';
 import 'pages/average_grade_page.dart';
 import 'pages/tuition_page.dart';
 import 'pages/enrollment_fee_page.dart';
+import 'pages/credits_summary_page.dart';
+import 'pages/tips_calculator_page.dart';
 
 final GoRouter appRouter = GoRouter(
   routes: [
@@ -22,6 +24,14 @@ final GoRouter appRouter = GoRouter(
     GoRoute(
       path: '/fees',
       builder: (_, __) => const EnrollmentFeePage(),
+    ),
+    GoRoute(
+      path: '/credits',
+      builder: (_, __) => const CreditsSummaryPage(),
+    ),
+    GoRoute(
+      path: '/tips',
+      builder: (_, __) => const TipsCalculatorPage(),
     ),
   ],
 );
