@@ -42,14 +42,31 @@ android {
 }
 
 dependencies {
+    implementation(platform(libs.androidx.compose.bom))
+    // Core Android y Compose
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
+
+    // Importación del BOM para gestionar versiones de Compose
     implementation(platform(libs.androidx.compose.bom))
+
+    // Dependencias de UI (sin versión, gestionadas por el BOM)
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
+
+    implementation("androidx.compose.ui:ui-text")
+    
+
+    // Dependencia de Íconos Extendidos de Material 3 (CORRECCIÓN: Se usa solo una vez y sin versión)
+    implementation("androidx.compose.material:material-icons-extended")
+
+    // Dependencia de Navegación
+    implementation("androidx.navigation:navigation-compose:2.8.2")
+
+    // Dependencias de Testing
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -57,5 +74,4 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
-    implementation("androidx.navigation:navigation-compose:2.8.2")
 }
