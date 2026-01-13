@@ -13,7 +13,7 @@ export function HomeScreen({ navigation }: Props) {
             <Pressable
                 style={styles.btn}
                 onPress={() =>
-                    navigation.navigate("Details", { id: "p1", title: "Producto 1" })
+                    navigation.navigate("Details", { id: "p1", title: "Producto 1", descripcion: "Mensaje", marca: "Lenovo" })
                 }
             >
                 <Text style={styles.btnText}>Ir a Details (con params)</Text>
@@ -24,13 +24,41 @@ export function HomeScreen({ navigation }: Props) {
             >
                 <Text style={styles.btnText}>Ir a Settings (AsyncStorage)</Text>
             </Pressable>
-             <Pressable
+            <Pressable
                 style={[styles.btn, { marginTop: 10 }]}
                 onPress={() => navigation.navigate("ClockDemo")}
             >
-                <Text style={styles.btnText}>Ir a ClockDemo (AsyncStorage)</Text>
+
+                <Pressable
+                    style={[styles.btn, { marginTop: 10 }]}
+                    onPress={() => navigation.navigate("LoginForm")}
+                >
+                    <Text style={styles.btnText}>Ir a Login Form (Validación)</Text>
+                </Pressable>
+
+                <Pressable
+                    style={[styles.btn, { marginTop: 10 }]}
+                    onPress={() => navigation.navigate("Products")}
+                >
+                    <Text style={styles.btnText}>Ir a Productos (FlatList)</Text>
+                </Pressable>
+
+                <Pressable
+                    style={[styles.btn, { marginTop: 10 }]}
+                    onPress={() => navigation.navigate("Profile", { userId: "u1", name: "Francisco", apellido: "Higuera" })}
+                >
+                    <Text style={styles.btnText}>Ir a Profile (params)</Text>
+                </Pressable>
+
+                <Pressable
+                    style={[styles.btn, { marginTop: 10 }]}
+                    onPress={() => navigation.navigate("DisplayName")}
+                >
+                    <Text style={styles.btnText}>Abrir Settings (Storage)</Text>
+                </Pressable>
             </Pressable>
-        </View>
+
+        </View >
     );
 }
 
